@@ -112,36 +112,9 @@ grep:Searches text patterns
 - Add an installation script or package it as a small CLI tool
 
 ---
-
-## Contributing
-
-Contributions are welcome! Ways to help:
-- Add or improve entries in `commands.txt`
-- Improve script robustness and edge-case handling
-- Add unit tests or CI checks
-- Submit issues or PRs with enhancements
-
-Please follow standard GitHub contribution workflow (fork → branch → PR).
-
----
-
 ## Author
 
 Jenna  
-Final Year ECE | Embedded Systems | Linux & Automation Enthusiast
+ ECE | Embedded Systems | Linux & Automation Enthusiast
 
 ---
-
-## License
-
-Suggested: MIT License — feel free to add a `LICENSE` file if you'd like to open-source it under MIT.
-
----
-
-If you want, I can:
-- Optimize the script for speed and edge cases
-- Add a set of interview-style Linux questions in the README
-- Add screenshots or a demo GIF
-- Provide a version that supports fuzzy search and options
-
-Tell me which enhancement to add next and I’ll update the repo files. 
