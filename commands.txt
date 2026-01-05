@@ -1,0 +1,175 @@
+touch:Creates an empty file
+rmdir:Deletes an empty directory
+head:Displays first lines of a file
+tail:Displays last lines of a file
+grep:Searches text patterns
+find:Searches files and directories
+chmod:Changes file permissions
+chown:Changes file ownership
+ps:Displays running processes
+top:Shows real-time processes
+df:Shows disk usage
+du:Shows directory size
+free:Displays memory usage
+uname:Shows system information
+whoami:Displays current user
+ping:Checks network connectivity
+wget:Downloads files
+curl:Transfers data from URLs
+ssh:Secure remote login
+scp:Secure file copy
+tar:Archives files
+zip:Compresses files
+unzip:Extracts zip files
+
+ls:Lists directory contents
+pwd:Prints current directory path
+cd:Changes directory
+mkdir:Creates a directory
+rm:Deletes files or directories
+cp:Copies files or directories
+mv:Moves or renames files
+cat:Displays file contents
+tac:Displays file content in reverse
+less:Views file page by page
+more:Views file page by page
+wc:Counts lines words characters
+sort:Sorts file contents
+uniq:Removes duplicate lines
+cut:Extracts columns from text
+paste:Merges lines of files
+tr:Translates characters
+awk:Pattern scanning and processing
+sed:Stream editor for text
+
+history:Shows command history
+clear:Clears terminal screen
+exit:Exits terminal
+alias:Creates command shortcut
+unalias:Removes alias
+watch:Runs command repeatedly
+time:Measures command execution time
+yes:Outputs string repeatedly
+sleep:Delays execution
+uptime:Shows system running time
+cal:Displays calendar
+date:Shows date and time
+who:Shows logged-in users
+users:Lists logged-in users
+id:Displays user identity
+groups:Shows user groups
+su:Switches user
+sudo:Executes command as root
+passwd:Changes user password
+
+ifconfig:Shows network configuration
+ip:Displays IP information
+netstat:Displays network statistics
+ss:Shows socket statistics
+route:Shows routing table
+traceroute:Traces network path
+arp:Displays ARP table
+nmcli:Network manager CLI
+iwconfig:Wireless configuration
+ethtool:Ethernet settings
+
+mount:Mounts file systems
+umount:Unmounts file systems
+lsblk:Lists block devices
+blkid:Shows block device info
+mountpoint:Checks mount point
+df -h:Human readable disk usage
+du -sh:Directory size summary
+sync:Flushes write buffers
+
+kill:Terminates a process
+killall:Kills process by name
+bg:Resumes job in background
+fg:Resumes job in foreground
+jobs:Lists background jobs
+nice:Sets process priority
+renice:Changes process priority
+htop:Interactive process viewer
+watch top:Monitors processes
+
+crontab:Schedules tasks
+at:Schedules one-time task
+atrm:Removes scheduled job
+atq:Lists scheduled jobs
+service:Controls services
+systemctl:Manages system services
+journalctl:Views system logs
+
+man:Displays manual pages
+info:Shows command information
+whatis:One-line command description
+apropos:Searches manual pages
+whereis:Locates binaries
+which:Shows command path
+locate:Finds files quickly
+updatedb:Updates locate database
+
+vi:Opens vi editor
+vim:Opens vim editor
+nano:Opens nano editor
+emacs:Opens emacs editor
+diff:Compares files
+sdiff:Side-by-side file comparison
+patch:Applies diff files
+
+gcc:Compiles C programs
+make:Build automation tool
+ld:Linker
+objdump:Displays object file info
+nm:Lists symbols
+strings:Extracts printable strings
+
+python:Runs Python interpreter
+python3:Runs Python3 interpreter
+pip:Python package installer
+pip3:Python3 package installer
+node:Runs JavaScript
+npm:Node package manager
+java:Runs Java programs
+javac:Compiles Java code
+
+docker:Container management
+docker ps:Lists containers
+docker images:Lists images
+docker run:Runs container
+docker stop:Stops container
+docker rm:Removes container
+
+git:Version control system
+git clone:Clones repository
+git status:Shows repo status
+git add:Adds files to staging
+git commit:Commits changes
+git push:Pushes changes
+git pull:Pulls updates
+git branch:Manages branches
+git checkout:Switches branches
+
+xargs:Builds argument list
+basename:Extracts filename
+dirname:Extracts directory name
+stat:Displays file status
+file:Identifies file type
+watch df:Monitors disk usage
+column:Formats output
+fold:Wraps text
+nl:Adds line numbers
+rev:Reverses lines
+yes y:Auto confirms input
+
+shutdown:Shuts down system
+reboot:Reboots system
+poweroff:Powers off system
+wall:Sends message to users
+write:Writes message to user
+logger:Logs system messages
+dmesg:Kernel messages
+lsusb:Lists USB devices
+lspci:Lists PCI devices
+uptime -p:Pretty uptime
+free -h:Human readable memory
